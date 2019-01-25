@@ -1,5 +1,4 @@
 absl-py==0.7.0
-apturl==0.5.2
 asn1crypto==0.24.0
 astor==0.7.1
 backcall==0.1.0
@@ -76,7 +75,6 @@ pymacaroons==0.13.0
 PyNaCl==1.1.2
 pyparsing==2.3.1
 pyRFC3339==1.0
-python-apt==1.6.3
 python-dateutil==2.7.5
 python-debian==0.1.32
 PyWavelets==1.0.1
