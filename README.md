@@ -2,7 +2,11 @@
 A neural network to detect and classify staircases in images.
 
 Try it out here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrandonTang89/Staircase-Image-Classifier/master?filepath=Stairs_Prediction_jsonnpy.ipynb)
+## How to Run
+Installing Dependencies (on python 3.6):
+<pre>pip install -r requirements.txt</pre>
 
+## Details on Neural Network
 ### Classes
 1. Curved
 2. Straight
